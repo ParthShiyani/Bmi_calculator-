@@ -1,7 +1,5 @@
 # bmicalc
 
 ## About this app
-
-<img src="https://user-images.githubusercontent.com/111631451/190551470-4da84d8a-943b-4815-95cd-2f09fbbd4279.png
-" width="200" height="400" />
+<img src="![bmi](https://user-images.githubusercontent.com/111631451/190552420-33540ebd-6728-415a-ba06-e248beda5648.png)" style="height:550px"/>
 
